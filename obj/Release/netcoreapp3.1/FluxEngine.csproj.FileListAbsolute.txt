@@ -1,0 +1,13 @@
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.exe
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.deps.json
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.runtimeconfig.json
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.runtimeconfig.dev.json
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.dll
+D:\Program Dev\FluxEngine\bin\Release\netcoreapp3.1\FluxEngine.pdb
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.AssemblyInfoInputs.cache
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.AssemblyInfo.cs
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.csproj.CoreCompileInputs.cache
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.dll
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.pdb
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.genruntimeconfig.cache
+D:\Program Dev\FluxEngine\obj\Release\netcoreapp3.1\FluxEngine.csprojAssemblyReference.cache
